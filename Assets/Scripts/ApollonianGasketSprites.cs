@@ -10,7 +10,7 @@ public class ApollonianGasketSprites : MonoBehaviour
     
     [Header("Circle Sprite Settings")]
     [SerializeField] private Sprite circleSprite;
-    [SerializeField] private Color circleColor = Color.white;
+    public Color circleColor = Color.white;
     [SerializeField] private Material circleMaterial;
     
     [Header("Generation Settings")]
@@ -28,15 +28,7 @@ public class ApollonianGasketSprites : MonoBehaviour
         CreateNewCircles();
     }
 
-    void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.Space) || Input.GetMouseButtonDown(0))
-        {
-            CreateNewCircles();
-        }
-    }
-
-    private void CreateNewCircles()
+    public void CreateNewCircles()
     {
         if (generationCoroutine != null)
         {

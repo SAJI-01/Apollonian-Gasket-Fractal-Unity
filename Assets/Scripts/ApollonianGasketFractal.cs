@@ -15,7 +15,7 @@ public class ApollonianGasketFractal : MonoBehaviour
     [Header("Line Renderer Settings")]
     [SerializeField] private float lineWidth = 2;
 
-    [SerializeField] private Color lineColor = Color.white;
+    public Color lineColor = Color.white;
     [SerializeField] private Material lineMaterial;
 
     [Header("Generation Settings")]
@@ -33,16 +33,9 @@ public class ApollonianGasketFractal : MonoBehaviour
         CreateNewCircles();
     }
 
-    void Update()
-    {
-        
-        if (Input.GetKeyDown(KeyCode.Space) || Input.GetMouseButtonDown(0))
-        {
-            CreateNewCircles();
-        }
-    }
 
-    private void CreateNewCircles()
+
+    public void CreateNewCircles()
     {
        
         if (generationCoroutine != null)
