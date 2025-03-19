@@ -31,7 +31,19 @@ The **Apollonian Gasket** is a beautiful and infinitely complex fractal formed b
 ---
 
 ## 🖼️ Visualization
-- [See Real-Time Fractal in Action](https://en.wikipedia.org/wiki/Apollonian_gasket)
+- [See Real-Time Fractal in Action](https://saji-01.github.io/Apollonian-Gasket-Fractal-Visualization/)
+
+
+
+https://github.com/user-attachments/assets/5e19b1c4-ce33-43d4-9d84-8540e4d841e6
+
+
+---
+![Screenshot 2025-03-19 175624](https://github.com/user-attachments/assets/f5a046df-ce52-41cf-a561-cf36bf991b6e)
+
+![Screenshot 2025-03-19 183956](https://github.com/user-attachments/assets/42ab10a5-588a-4acf-bd11-084e084543a4)
+
+![Screenshot 2025-03-19 205132](https://github.com/user-attachments/assets/b4813684-222f-4ec9-b498-d1434ccb5e0e)
 
 ---
 
@@ -42,10 +54,3 @@ The **Apollonian Gasket** is a beautiful and infinitely complex fractal formed b
 
 
  
-![Screenshot 2025-03-19 175624](https://github.com/user-attachments/assets/f5a046df-ce52-41cf-a561-cf36bf991b6e)
-
-![Screenshot 2025-03-19 180658](https://github.com/user-attachments/assets/57774adb-6ea1-4156-95be-1e0e088c9b6e)
-
-![Screenshot 2025-03-19 183956](https://github.com/user-attachments/assets/42ab10a5-588a-4acf-bd11-084e084543a4)
-
-![Screenshot 2025-03-19 205132](https://github.com/user-attachments/assets/b4813684-222f-4ec9-b498-d1434ccb5e0e)
